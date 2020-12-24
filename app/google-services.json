@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "483691612951",
+    "firebase_url": "https://chemapp-d6b37.firebaseio.com",
+    "project_id": "chemapp-d6b37",
+    "storage_bucket": "chemapp-d6b37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483691612951:android:6a719741c57bcf02174552",
+        "android_client_info": {
+          "package_name": "com.example.chemapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483691612951-94rdk7hcia6radbn1nd36fhgoiv4a06b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chemapp",
+            "certificate_hash": "cb58138b918546c290641844e5738631fa66207a"
+          }
+        },
+        {
+          "client_id": "483691612951-iae5fqc528ksa10l652gbmavq22e8khi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9nD-aGUe-GlpJZIsZsQtj_FXKM2hPWJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483691612951-iae5fqc528ksa10l652gbmavq22e8khi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483691612951:android:f3893032bc1c95f6174552",
+        "android_client_info": {
+          "package_name": "com.troy.Bioapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483691612951-gpbvro82p04e52i9n76krg7vnpi5ui6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.troy.Bioapp",
+            "certificate_hash": "cb58138b918546c290641844e5738631fa66207a"
+          }
+        },
+        {
+          "client_id": "483691612951-iae5fqc528ksa10l652gbmavq22e8khi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9nD-aGUe-GlpJZIsZsQtj_FXKM2hPWJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483691612951-iae5fqc528ksa10l652gbmavq22e8khi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483691612951:android:08b6545ce3914600174552",
+        "android_client_info": {
+          "package_name": "com.troy.assestantbioapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483691612951-irc5grbgpdgvcg9d33jm72lhpv4elgpq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.troy.assestantbioapp",
+            "certificate_hash": "cb58138b918546c290641844e5738631fa66207a"
+          }
+        },
+        {
+          "client_id": "483691612951-iae5fqc528ksa10l652gbmavq22e8khi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9nD-aGUe-GlpJZIsZsQtj_FXKM2hPWJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483691612951-iae5fqc528ksa10l652gbmavq22e8khi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

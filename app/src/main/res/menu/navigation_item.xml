@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home"/>
+    <item
+        android:id="@+id/navigation_barcode"
+        android:icon="@drawable/scan"
+        android:title="Barcode Scan"/>
+
+    <item
+        android:id="@+id/navigation_contact"
+        android:icon="@drawable/ic_send_black_24dp"
+        android:title="Contact"/>
+    <item
+        android:id="@+id/navigation_info"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="Info"/>
+</menu>

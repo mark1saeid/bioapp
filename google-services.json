@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "483691612951",
+    "firebase_url": "https://chemapp-d6b37.firebaseio.com",
+    "project_id": "chemapp-d6b37",
+    "storage_bucket": "chemapp-d6b37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483691612951:android:dae179f7173ab2b3174552",
+        "android_client_info": {
+          "package_name": "com.example.chemapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483691612951-d0s024nu2tcfaac8ajlgjojue8d7qhc5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chemapp",
+            "certificate_hash": "ed994ecab9d7af19fd15334f1f68144d0687536e"
+          }
+        },
+        {
+          "client_id": "483691612951-iae5fqc528ksa10l652gbmavq22e8khi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9nD-aGUe-GlpJZIsZsQtj_FXKM2hPWJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483691612951-iae5fqc528ksa10l652gbmavq22e8khi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
